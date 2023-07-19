@@ -1,9 +1,8 @@
-# Joash
-Hahah
+
 <!DOCTYPE html>
 <html>
     <head>
-        <title>wala </title>
+        t
     </head>
     <body> <h1>hello guys</h1>
         <h2>tangina mo pakyu ka</h2>
